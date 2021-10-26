@@ -1,5 +1,5 @@
 # Esto es un programa en lenguaje Python.
-# Las tres primeras líneas son comentarios, solo sirven para informar 
+# Las tres primeras líneas son comentarios, solo sirven para informar
 # al lector, pero el intérprete de Python se las salta sin hacerles caso
 
 print("Hola") # esta orden imprime un mensaje en pantalla
@@ -22,6 +22,8 @@ b = '8'
 print(a+b) # Pero ¡cuidado! Debemos tener cuidado con el tipo de dato.
 
 a = 4.3        # esto es un número decimal
-b = 'palabra'  # esto es una "cadena" de caracteres. no se puede sumar con 
+b = 'palabra'  # esto es una "cadena" de caracteres. no se puede sumar con
                # el anterior
 c= (4, 3.2, "azul")
+
+print(c)
