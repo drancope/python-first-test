@@ -27,3 +27,11 @@ b = 'palabra'  # esto es una "cadena" de caracteres. no se puede sumar con
 c= (4, 3.2, "azul")
 
 print(c)
+
+lista = ['hola ', 'qué te pasa, ', 'adiós ']
+nombre = input('Dime cómo te llamas: ')
+print(lista[0]+nombre)
+print(lista[1]+nombre)
+input('...')
+print('Vaya!. Bueno, '+lista[2]+nombre)
+
