@@ -33,5 +33,5 @@ nombre = input('Dime cómo te llamas: ')
 print(lista[0]+nombre)
 print(lista[1]+nombre)
 input('...')
-print('Vaya!. Bueno, '+lista[2]+nombre)
+print('Vaya!. Bueno, '+lista[2]+ nombre)
 
